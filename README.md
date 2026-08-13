@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @madzzie
-- 👀 I’m interested in UX & Fullstack Development
-- 🌱 I’m currently learning SwiftUI and GraphQL
+- 👀 I build intuitive applications and simplify complex tech solutions
 - 📫 How to reach me: [@madzzie](https://twitter.com/MadhuriGubbala)
 
 <!---
